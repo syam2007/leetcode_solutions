@@ -1,5 +1,5 @@
 class Solution:
-    def smallestNumber(self, n: int, t: int) -> int:
+    def smallnum(self, n: int, t: int) -> int:
         i = n
         
         while True:
